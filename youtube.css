@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* about & resources */
+.yt-vids {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    padding: 1.4em;
+    color: white;
+    background-color: rgb(0, 1, 14);
+}
+
+.vid {
+    align-items: center;
+    margin: 1.4em;
+}
+
+.vid-link
+
+.vid-img {
+    width: 100%;
+    height: auto;
+}
+
+.vid-title {
+
+}
+
+.vid-about {
+    color: wheat;
+    background: transparent;
+    border: 0.2em wheat dashed; 
+
+}
+
+
+
+
+/* could be helpful?
+
+    .vid-wrapper {
+    align-items: center;
+    padding: 0.3em;
+    * temp changes *
+    background-color: brown;
+} */
